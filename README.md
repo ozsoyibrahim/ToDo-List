@@ -2,6 +2,6 @@
 
 <h2>This work contains HTML, CSS and Javascript codes. </h2>
 
-<p>You can check the website by <a href="#">Click</a> here.</p>
+<p>You can check the website by <a href="https://ozsoyibrahim.github.io/ToDo-List/">Click</a> here.</p>
 
 <img src="image/screen.gif" alt="">
